@@ -1,4 +1,4 @@
-# Lista de Exercícios - Teste de API com Karate de S206
+# Lista de exercícios de S206 - Teste de API com Karate
 
 O projeto foi feito utilizando uma API do South Park
 
